@@ -11,6 +11,8 @@ python3 main.py
 ```
 python3 main.py --capture True --name <target name>
 ```
+Captured images will be saved in the data folder with the target name as its directory.
+
 - To train and export classifier, run:
 ```
 python3 train.py
