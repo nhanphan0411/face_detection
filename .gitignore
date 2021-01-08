@@ -1,5 +1,5 @@
-./model/data
-./sample
+model/data
+sample
 misc.ipynb
-./model/train.ipynb
+model/train.ipynb
 __pycache__
