@@ -7,7 +7,7 @@
 ```
 python3 main.py
 ```
-- To collect data images by capturing from webcam, create a folder name *data* in the main directory and run:
+- To collect data images by capturing from webcam, create a folder name *data* in the *model* directory and run:
 ```
 python3 main.py --capture True --name <target name>
 ```
